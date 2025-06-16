@@ -1,0 +1,15 @@
+# Ambiente Virtual
+/tf-env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Dataset 
+archive/
+Bone_Fracture_Binary_Classification/
+*.zip
+
+# Modelo treinado
+*.keras
+*.h5
